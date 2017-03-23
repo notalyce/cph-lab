@@ -1701,6 +1701,7 @@
 
 		h1 a {
 			color: inherit;
+			border: none;
 		}
 
 		@media screen and (max-width: 736px) {
